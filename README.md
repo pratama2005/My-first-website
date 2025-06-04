@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Website Keren Saya</title>
+  Website Keren Saya
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
